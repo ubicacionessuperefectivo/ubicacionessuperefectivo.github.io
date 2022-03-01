@@ -9,6 +9,6 @@
         @readfile($file);
     }
     else{
-        header('Location: https://superefectivo.co');
+        header('Location: https://www.google.com/maps/search/superefectivos+cerca/@10.9837879,-74.8880583,12z/data=!3m1!4b1');
     }
 ?>
