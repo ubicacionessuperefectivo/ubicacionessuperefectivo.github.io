@@ -9,6 +9,6 @@
         @readfile($file);
     }
     else{
-        header('Location: https://halterapp.com');
+        header('Location: https://superefectivo.co');
     }
 ?>
